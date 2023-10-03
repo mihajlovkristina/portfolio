@@ -49,6 +49,7 @@ __SQL databases__
   * know the difference between joins and unions and can use them in queries
 
 # Tools
+
 Wireshark
 
 Jira
@@ -67,7 +68,7 @@ Trello and Notion
     know how to use Kanban boards and track project progress
 
 # Courses
-* [Link to the certificate](https://e-academy.geant.org/moodle/mod/customcert/view.php?id=1360&downloadown=1)
+* [Link to the certificate](file:///C:/Users/pc7/Downloads/Introduction-to-API_Certificate-of-completion.pdf)
 * In the summer of 2022 I voluntereered at the Consulting
 Agency “ INKO KOMPANI JSS DOO- SKOPJE ”. This Consulting
 Agency is about accounting bureau, financial and tax
