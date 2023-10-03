@@ -68,7 +68,7 @@ Trello and Notion
     know how to use Kanban boards and track project progress
 
 # Courses
-* [Link to the certificate](file:///C:/Users/pc7/Downloads/Introduction-to-API_Certificate-of-completion.pdf)
+* [Link to the certificate](https://drive.google.com/file/d/10VK_U5n5C1Kfu-Op6mTKpECgTminwzai/view?usp=drive_link)
 * In the summer of 2022 I voluntereered at the Consulting
 Agency “ INKO KOMPANI JSS DOO- SKOPJE ”. This Consulting
 Agency is about accounting bureau, financial and tax
@@ -76,11 +76,11 @@ consulting led by accountant Suzana Zdravkovska.
 * At the faculty i have worked on exploratory data analysis
 project and projects were we use tools to visualize the data
 # Examples of my work
-Part of the laboratory exercises for trello [Link to the exercise] (file:///C:/Users/pc7/Downloads/LV5.pdf)
+Part of the laboratory exercises for trello [Link to the exercise] (https://drive.google.com/file/d/1_qcj07wCHuQf49S66r9zNYp5XuAb88So/view?usp=drive_link)
 ### Test cases
 
 - [The training webshop](https://ananas.mk/plakanje/isporaka) was used to create demo test cases
-  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1_TgctVmmRN45UQsVIydn1izZAtqkHGdpqH-L0qFNeMM/edit#gid=0)
+  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/11DodpSAht05yqiSbPta1-XDYH9qCVkjH/edit?usp=drive_link&ouid=109799354603931657687&rtpof=true&sd=true)
 
 
 
