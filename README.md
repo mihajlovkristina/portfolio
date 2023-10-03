@@ -5,10 +5,6 @@
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
 
 ## About me
 I am a positive, hardworking, dynamic and dedicated
@@ -25,7 +21,59 @@ I would be extremely happy to apply obtained knowledge to testing an operational
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
 
 ## Skills
+__2D__
+  * Roto in silhouette
+  * Paint and comp in Nuke 
+__Python fundamentals__
+  * can write simple functions and algorithms
+  * know when to use for and while
+  * able to comprehend easy codes
+__Test analysis & design__
+  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
+  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
+
+__API testing__
+  * know the difference between SOAP and REST APIs
+  * gained experience through manual testing of APIs created for educational purposes
+  * know how to manipulate requests and create test cases using the SoapUI tool
+__Test documentation__
+  * can create test cases and checklists and know how and in which situations to use them effectively
+  * able to prepare comprehensive bug reports and provide detailed session reports
+
+__SQL databases__
+  * can write complex requests using subqueries
+  * familiar with the use of aliases and wildcards
+  * know the difference between joins and unions and can use them in queries
 
 # Tools
+Wireshark
+Jira
+
+    know how to create bug reports
+    able to create projects and track their progress
+
+SoapUI
+
+VirtualBox
+
+    able to set up and operate virtual machines
+
+Trello and Notion
+
+    know how to use Kanban boards and track project progress
+
 # Courses
+[Link to the certificate](https://e-academy.geant.org/moodle/mod/customcert/view.php?id=1360&downloadown=1)
+In the summer of 2022 I voluntereered at the Consulting
+Agency “ INKO KOMPANI JSS DOO- SKOPJE ”. This Consulting
+Agency is about accounting bureau, financial and tax
+consulting led by accountant Suzana Zdravkovska.
+At the faculty i have worked on exploratory data analysis
+project and projects were we use tools to visualize the data
 # Examples of my work
+Part of the laboratory exercises for trello [Link to the exercise] (file:///C:/Users/pc7/Downloads/LV5.pdf)
+
+
+
+
+
