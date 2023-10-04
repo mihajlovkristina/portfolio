@@ -7,8 +7,7 @@
 - [Examples of my work](#examples-of-my-work)
 
 ## About me
-I am a positive, hardworking, dynamic and dedicated
-person with an excellent sense of organization. I see
+I am a dedicated, organized and methodical individual. I have good interpersonal skills, am an excellent team worker and I am keen and very willing to learn and develop new skills.. I see
 myself as a very hard-working and responsible student,
 with a remarkable theoretical background and significant
 advanced potential. In addition to my involvement in the
@@ -76,11 +75,21 @@ consulting led by accountant Suzana Zdravkovska.
 * At the faculty i have worked on exploratory data analysis
 project and projects were we use tools to visualize the data
 # Examples of my work
-Part of the laboratory exercises for trello [Link to the exercise] (https://drive.google.com/file/d/1_qcj07wCHuQf49S66r9zNYp5XuAb88So/view?usp=drive_link)
+Part of the laboratory exercises for trello [Link to the exercise](https://drive.google.com/file/d/1_qcj07wCHuQf49S66r9zNYp5XuAb88So/view?usp=drive_link)
 ### Test cases
 
 - [The training webshop](https://ananas.mk/plakanje/isporaka) was used to create demo test cases
   * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/11DodpSAht05yqiSbPta1-XDYH9qCVkjH/edit?usp=drive_link&ouid=109799354603931657687&rtpof=true&sd=true)
+ 
+### Bug reports and work in Jira
+
+  -Bug found on the Geant eacademy and reported:
+        * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/drive/u/1/my-drive).
+        [screenshot2](https://drive.google.com/drive/u/1/my-drive)
+
+        
+       
+
 
 
 
