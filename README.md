@@ -17,7 +17,7 @@ Now, I wish to exploit my research and analytical skills in software testing. Cu
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. 
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/drive/u/1/my-drive).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1pO4Kdk9GxUFc6v_AzLpYdeqjXoj9geix/view?usp=sharing).
 
 ## Skills
 __2D__
@@ -84,8 +84,8 @@ Part of the laboratory exercises for trello [Link to the exercise](https://drive
 ### Bug reports and work in Jira
 
   -Bug found on the Geant eacademy and reported:
-        * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/drive/u/1/my-drive).
-        [screenshot2](https://drive.google.com/drive/u/1/my-drive)
+        * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1IE44Zf0UHcEhtFBLfimrkbqZf38DiewO/view?usp=sharing).
+        [screenshot2](https://drive.google.com/file/d/1f9_bo75Y4Cwf33OWdT4RwGHZJq0VAdqP/view?usp=sharing)
 
         
        
