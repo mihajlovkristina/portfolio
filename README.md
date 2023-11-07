@@ -17,7 +17,7 @@ Now, I wish to exploit my research and analytical skills in software testing. Cu
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. 
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1pO4Kdk9GxUFc6v_AzLpYdeqjXoj9geix/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1ulJZZa1XBLnmwyVbDHCQpEFgMrT9m58r/view?usp=drive_link).
 
 ## Skills
 __2D__
